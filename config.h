@@ -8,4 +8,4 @@ static const Block blocks[] = {
 	{"",	"sb-internet",	5,	4},
 };
 
-static char *delim = ",";
+static char *delim = " | ";
